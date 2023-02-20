@@ -2,3 +2,7 @@ Testando
 Uma
 Atualização
 de Arquivo
+
+Testando branch
+
+Testando merge
