@@ -6,3 +6,7 @@ de Arquivo
 Testando branch
 
 Testando merge
+
+Enviando
+a funcionalidade
+x
