@@ -11,8 +11,10 @@ _**Checkout**, Tela de produto, catálogo._
 
 ### Funcionalidades a desenvolver
 1. Área de membros
-  1. Cliente
-  3. Usuários
-  2. Administrador
+    1. Cliente
+   3. Usuários
+   2. Administrador
 2. Integração
 3. Sistema
+
+Editor: https://www.github.com/marciomicro
